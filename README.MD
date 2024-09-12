@@ -24,5 +24,5 @@ The project is divided and implemented by the following phases
 ## Installation guide
 
 ```
-git clone https://github.com/Daniel-Andarge/telecom-growth-analysis.git
+git clone https://github.com/EstifanosTeklay/TelecomAnalysis.git
 cd telecom-growth-analysis
